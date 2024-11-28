@@ -1,0 +1,1 @@
+This_is_a_single_long_line_without_any_newlines_just_to_test_edge_cases_in_get_next_line.
